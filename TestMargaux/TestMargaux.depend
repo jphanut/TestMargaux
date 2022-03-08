@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1644420826 source:/home/margauxhanut/ProjectC/TestMargaux/TestMargaux/main.c
+	<stdio.h>
+	<stdlib.h>
+
